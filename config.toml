@@ -51,19 +51,24 @@ disqusShortname = "yourdiscussshortname"
   weight = 1
   url = "https://github.com/obenn/"
 [[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://linkedin.com/in/oliverbenning"
+[[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 2
+  weight = 3
   url = "https://twitter.com/OliverBenning/"
 [[params.social]]
   name = "Mastodon"
   icon = "fa fa-mastodon fa-2x"
-  weight = 3
+  weight = 4
   url = "https://mastodon.social/@obenn/"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
-  weight = 4
+  weight = 5
   url = "https://gitlab.com/obenn/"
 
 # Menu links
