@@ -1,0 +1,10 @@
+name = "oliverbenning"
+type = "webpack"
+account_id = "eef43ffb7af8b4668e251f542e27d73d"
+workers_dev = false
+route = "oliverbenning.com/*"
+zone_id = "1e441e051d16cdf21ed67c279c837761"
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
