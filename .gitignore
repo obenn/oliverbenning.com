@@ -2,3 +2,4 @@ public/
 _gen/
 workers-site/
 dist/
+.DS_Store
