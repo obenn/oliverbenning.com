@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://oliverbenning.com"
 title = "Oliver Benning"
 
 theme = "hugo-coder"
@@ -19,6 +19,8 @@ pygmentsCodeFencesGuessSyntax = true
     info = "Full Stack Developer and Security Researcher"
     avatarURL = "/Oliver.png"
     footerContent = "Available for consulting at <a href='https://strikethrough.net'>strikethrough.net</a>."
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
 
     dateFormat = "January 2, 2006"
 
