@@ -77,7 +77,7 @@ pygmentsCodeFencesGuessSyntax = true
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 3
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/oliverbenning/"
 [[params.social]]
     name = "Mastodon"
     icon = "fa fa-mastodon"
