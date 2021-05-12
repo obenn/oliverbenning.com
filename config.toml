@@ -18,7 +18,7 @@ pygmentsCodeFencesGuessSyntax = true
     keywords = "blog,developer,personal"
     info = "Full Stack Developer and Security Researcher"
     avatarURL = "/Oliver.png"
-    footerContent = "Available for consulting at <a href='https://strikethrough.net'>strikethrough.net</a>."
+    footerContent = "Available for consulting at <a href='https://strikethrough.com'>strikethrough.com</a>."
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
